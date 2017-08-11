@@ -606,10 +606,3 @@ echo all tomcats : $TOMCAT_IPS
 - Push the image to the registry
 - run your application as a container!
 
-
-!SLIDE
-<center><div style="width: 75%; height: auto;"><img src="img/xpirit.png"/></div></center>
-<br />
-<center>
-[http://nauts.io/workshop-docker-introduction](http://nauts.io/workshop-docker-introduction)
-</center>
